@@ -176,4 +176,4 @@ Derin öğrenme tabanlı regresyon modelleri denenebilir.
 
 Mevcut model optimizasyonları (GridSearchCV, Hyperparameter Tuning) yapılabilir.
 # Projenin Anlatıldığı Video
-Youtube:  https://www.youtube.com/watch?v=3GgKtPzJ9l4 
+Youtube:  https://www.youtube.com/watch?v=pI79Wr6GJI0
